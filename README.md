@@ -1,4 +1,4 @@
-# Anime Info CLI
+# Anime Searcher
 basically a simple terminal app where you can search for anime and get all the details without opening a browser 
 
 ## requirements
